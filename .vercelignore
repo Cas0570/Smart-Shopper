@@ -1,0 +1,12 @@
+node*modules
+.git
+.github
+.vscode
+.husky
+*.log
+.DS*Store
+coverage
+docs
+*.md
+!README.md
+src/**tests**
