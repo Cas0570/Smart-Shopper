@@ -350,7 +350,7 @@ This project is configured for Vercel with PWA support:
 
 **Cas Doorn**
 
-- GitHub: [@Cas0570](https://github.com/Cas0570)
+- GitLab: [@Cas0570](https://gitlab.com/Cas0570)
 - Website: [casdoorn.nl](https://casdoorn.nl)
 
 ---
